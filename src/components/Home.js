@@ -11,7 +11,7 @@ const Home = () => {
                 <div className="bg-cuadro-tdf h-[150px] w-[200px] m-[20px] bg-center bg-cover text-center text-white  font-semibold flex justify-center items-center border-l-[7px] border-[#0066af] rounded-xl"><a target="_self" >Tierra del Fuego</a></div>
             </div>
             <div id="ospes" className="text-4xl h-[260px] font-bold text-[#ffd32a]  text-center bg-portada-fitz bg-top bg-cover bg-no-repeat w-full flex flex-col justify-center border-y-[7px] rounded-bl-[50px] border-b-[#ffd32a] items-center py-[0px] mt-[0px]"> O.S.P.E.S. <br />
-             <div className="text-2xl max-w-[1000px] text-black pt-[20px]" >Obra Social Para el Personal de Estaciones de Servicios, GNC, Garage, Playa de Estacionamiento, Lavaderos de Auto de la República Argentina.</div>
+             <div className="text-2xl max-w-[1000px] text-black pt-[20px]">Obra Social Para el Personal de Estaciones de Servicios, GNC, Garage, Playa de Estacionamiento, Lavaderos de Auto de la República Argentina.</div>
             </div>
             <div className="text-4xl flex font-semibold justify-center bg-[#E5E7EB] items-center max-w-[1000px] mx-auto min-h-screen flex-wrap">
                 <div className="bg-portada-patagonia bg-cover h-[150px] w-[200px] m-[20px] bg-center text-white flex justify-center items-center border-l-[7px] border-[#ffd32a] rounded-xl"> <a target="_self" >Río Negro</a> </div>
